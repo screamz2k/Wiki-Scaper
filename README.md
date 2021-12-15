@@ -1,5 +1,5 @@
 # Wiki-Scaper
-Small Python Script to scrape wikipedia-links
+Small Python Script to scrape Wikipedia-Links
 # Usage
 1. Go into the target directory.
 2. Open cmd and type ``pip install -r requirements.txt``
